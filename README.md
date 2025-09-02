@@ -69,3 +69,11 @@ Here’s a preview of the dashboard:
 3. Open the .pbix file in Power BI Desktop.
 
 4. Interact with filters and slicers to explore data.
+
+---
+
+## 8. Author
+
+**Mridul Jindal**  
+GitHub: https://github.com/NOVAMJ  
+LinkedIn: https://www.linkedin.com/in/mridul-jindal-3b549626b/
