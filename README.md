@@ -1,12 +1,12 @@
 # 🌍 CO₂ Emission Dashboard: Historical Trends & Top Emitters
 
-## 1. Project Title / Headline
+## 📌 1. Project Title / Headline
 **CO₂ Emission Dashboard**  
 An interactive and visually rich dashboard built to explore global CO₂ emissions over time, analyze top emitters, and identify trends for climate action planning. Designed with **Power BI** for analysts, researchers, and policy-makers.
 
 ---
 
-## 2. Short Description / Purpose
+## 🔍 2. Short Description / Purpose
 The **CO₂ Emission Dashboard** is a comprehensive visualization tool that provides insights into historical and current CO₂ emissions across countries and continents.  
 This dashboard helps users:
 - Understand emission growth over time
@@ -15,7 +15,7 @@ This dashboard helps users:
 
 ---
 
-## 3. Tech Stack
+## 🧰 3. Tech Stack
 The dashboard was built using the following tools and technologies:  
 - 📊 **Power BI Desktop** – Main data visualization platform  
 - 🛠 **Power Query** – Data cleaning and transformation  
@@ -25,14 +25,14 @@ The dashboard was built using the following tools and technologies:
 
 ---
 
-## 4. Data Source
+## 🗂️ 4. Data Source
 The data is sourced from:  
 - 🌐 **Data In Our World** (Public datasets on global emissions)  
 - Emission metrics from **1750 – 2020+**, covering **top 10 emitting countries** and global growth rates.  
 
 ---
 
-## 5. Features / Highlights
+## 🎯 5. Features / Highlights
 
 - **Business Problem**  
   Climate change mitigation requires a deep understanding of historical and geographical CO₂ emission trends. Raw data is complex and difficult to interpret.  
@@ -50,14 +50,14 @@ The data is sourced from:
 
 ---
 
-## 6. Screenshots / Demos
+## 🖼️ 6. Screenshots / Demos
 Here’s a preview of the dashboard:  
 
 <img width="1501" height="831" alt="Screenshot 2025-09-03 000750" src="https://github.com/user-attachments/assets/f5417e69-b5de-48f4-b4c8-4069ca246eff" />
 
 ---
 
-## 7. How to Use
+## 🚀 7. How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/CO2-Emission-Dashboard.git
@@ -72,7 +72,7 @@ Here’s a preview of the dashboard:
 
 ---
 
-## 8. Author
+## 👩‍💻 8. Author
 
 **Mridul Jindal**  
 GitHub: https://github.com/NOVAMJ  
